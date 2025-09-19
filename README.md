@@ -1,5 +1,1 @@
-# aimlockplus.githud.io
-Meunu 
-Fix rung
-Fix lố
-Đầm Tâm
+#Aimlock.githud.io
